@@ -31,10 +31,10 @@ The number of words in the file is printed.
 
 ## PROGRAM:
 ```python 
-'''Program
+
 Developed by : E. VARSHA SHARON
 Register number : 22004867
-'''
+
 
 fname=input('Enter file name: ')
 num_words = 0
