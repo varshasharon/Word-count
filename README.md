@@ -45,7 +45,7 @@ with open(fname, 'r') as f :
 print('Number of words: ',num_words)
 ```
 ### OUTPUT:
-
+[!OUTPUT]![wcnt](https://user-images.githubusercontent.com/98278161/214894127-9fc3a64d-cf88-4542-953a-bc58adaa7ed7.jpeg)
 
 
 ## RESULT:
